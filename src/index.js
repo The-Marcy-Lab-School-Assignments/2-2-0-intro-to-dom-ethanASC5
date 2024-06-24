@@ -28,7 +28,7 @@ const pTagmaker = () => {
     document.body.appendChild(p)
 
 }
-
+/** FEEDBACK: Yes to using the runner function! */
 // Main function that acts as the entry point of our script
 const main = () => {
     // Call the h1Maker function to create and add the h1 element to the document
